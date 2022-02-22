@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief account of the present declining state of the West-Indies in reference to its trade, and in particular, that of the Barbadoes : as also somewhat offered for its relief / by a West-India merchant.</title>
+            <author>West-India merchant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29407</idno>
+            <idno type="STC">Wing B4514</idno>
+            <idno type="STC">ESTC R43069</idno>
+            <idno type="EEBO-CITATION">26739411</idno>
+            <idno type="OCLC">ocm 26739411</idno>
+            <idno type="VID">109772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1712:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief account of the present declining state of the West-Indies in reference to its trade, and in particular, that of the Barbadoes : as also somewhat offered for its relief / by a West-India merchant.</title>
+                  <author>West-India merchant.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Harris ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: faded, with loss of text.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barbados --  History --  17th century.</term>
+               <term>West Indies, British --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109772:1"/>
+            <pb facs="tcp:109772:1" rendition="simple:additions"/>
+            <p>A BRIEF ACCOUNT OF THE PRESENT Declining State OF THE WEST-INDIES: In Reference to Its TRADE; And in Particular, That of the BARBADOES.</p>
+            <p>AS ALSO Somewhat Offered for its RELIEF.</p>
+            <p>By a WEST-INDIA MERCHANT.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Harris,</hi> at the Harrow in the <hi>Poultry.</hi> 1695.</p>
+            <pb facs="tcp:109772:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:109772:2"/>
+            <head>A BRIEF ACCOUNT OF THE PRESENT <hi>Declining State</hi> OF THE Weſt-Indies, &amp;c.</head>
+            <p>THe Many and Great Advantages that <hi>England</hi> Re<g ref="char:EOLhyphen"/>ceives from the <hi>Weſt-Indies,</hi> in Reſpect of the Revenue, Navigation and Trade, do Abundantly Recommend their Worth, Obliging the Go<g ref="char:EOLhyphen"/>vernment thereupon to their utmoſt Care, ſo as to eaſe them under thoſe Inſupportable Weights which have and doth befal them; and to the Removing thoſe Feared Evils which they are ſo much poſſeſſed with the dread of; it being one great Maxim of Trade, according to its Advantage, more or leſs, to proportion a due Regard thereto: It is not my deſign to Diſcuſs all the particular Advantages Accruing to this Nation, from the <hi>Weſt-India</hi> Trade; yet I ſhall Reflect on ſuch of them, as may ten<g ref="char:EOLhyphen"/>der their Calamities the more Affecting; The Vaſt Quantities of our Home Manufactories almoſt of all kinds, thither Exported; the Iſlands making frequent Viſits to our Shops of all ſorts almoſt,
+<pb n="4" facs="tcp:109772:3"/> to ſupply their Conſtant and Repeated Wants; likewiſe how Great we are, and how much Depended upon, for their Great Produce; <hi>Holland, Hambrough,</hi> and ſundry parts of <hi>Germany</hi> being abundantly Supplyed from thence; and alſo what great numbers of our own Subjects are employed in the Manufacturing, eſpecially of their Sugars and Cotton: Theſe muſt be allowed to be weighty Conſiderations, and will aſſuredly appear ſo, when we do on the other hand, reflect on the Conſumptive and Dying State of theſe Iſlands, and thoſe Unaccountable Miſchiefs this Nation muſt ſhare in, from the want of the aforementioned Benefits reſulting from the <hi>Weſt-India</hi> Trade; a Trade that hath been far more remarkably and diſmally Wounded, than of any othet parts we Negotiate with, ſo as even <hi>Barbadoes</hi> hath Loſt in about eight Months time, Fifty Sail of Laden Ships, beſides their preſent Loſs, of Six parts of their Fleet out of Eight; their Loſſes have been indeed ſucceſſive, that is moſt evident, from great numbers of Loaden Fleets, as well as ſingle Ships that have been frequently Loſt; not only from the meer events of War, but from their being Deteined by the Go<g ref="char:EOLhyphen"/>vernment, in Sailing Outwards and Homewards; that they have not gone at a proper Seaſon of the Year; but on the contrary, in the Fatal Winter Seaſon to Return; then having great numbers of Privateers to be expoſed to alſo, ſo as Convoys at that time have not been Secure, though moſt Uſeful in Summer Seaſon; indeed thus Mis-Timing of our Ships, in their Outward, and conſequent<g ref="char:EOLhyphen"/>ly, in their Home Voyages, is, and hath been, the chief cauſe of our moſt Melancholy Loſſes; beſides the Miſchiefs our Periſhable Goods meet with from ſuch dilatorineſs, as they have been worthleſs on their Arrival; and the Vaſt Charge Owners of Ships are at, not to be omitted, beſides the Ships themſelves being greatly injured both here and in <hi>Barbadoes,</hi> as mightily Fouled; eaten by the Worms, and weakned by their lying long Loaden; for as they load Deep, ſo they ought to have the moſt diſpatch, and the beſt ſeaſon of the Year to move in, which they have miſſed of; ſo that here
+<pb n="5" facs="tcp:109772:3"/> is the ſource of our Loſſes, that have been ſo ſtupendiouſly Great, ſo Great of Late, that ſome ſingle Merchants, have loſt, within the Compaſs of Twelve Months, nigh Thirty Thouſand Pounds value in their Conſignments; and ſo rendred uncapable to Pay the Planters Bills of Exchange, that will iſſue at length to their utter Ruine, both in their Credit and Eſtates; they being not Worth ſo much as they were before the War, by a Third Part.</p>
+            <p>Now for our Remedy, theſe following Conſiderations, are with ſubmiſſion Propoſed.</p>
+            <p n="1">1. That the Government Allow one Large Fleet of Ships for <hi>Barbadoes,</hi> ſo many as may bring all the Crop almoſt away once a Year, that they depart hence in <hi>December</hi> at furtheſt, Caſualties excepted, they may Arrive at the time of their Crop; being Loaden, that they Sail the begining of <hi>May</hi> with a Convoy, and what Ships may drop in from <hi>Guiney, New-England,</hi> or other parts, will Load in about Six Weeks, that they Sail after the former Fleet with Convoy alſo, as ſoon as Loaden; that there be timely notice given to the Concerned, both here and in <hi>Barbadoes</hi> hereof; by this means we may on good grounds be ſafe in our Trade; and their ſo com<g ref="char:EOLhyphen"/>ing in Summer time, the Seamen will be more ready for the Go<g ref="char:EOLhyphen"/>vernments uſe than they have yet been, and at ſuch times when they are moſt wanted.</p>
+            <p n="2">2. That no ſingle Ship be permitted to Sail either Outwards or Homewards, after the Departure of the ſaid Fleets, except thoſe belonging to the Guiney-Trade: If any Ship ſhould drop into <hi>Barbadoes,</hi> they ſhould not be Allowed to Load for <hi>England,</hi> after the Fleets for <hi>England</hi> are gon, but ſtay the opportunity of the next Fleets Motion; by this means what Sugar is left of the Crop, will be principally Loaded on theſe two Fleets; what Remains, to be kept till the opportunity of the next Fleet; herein the Planter will
+<pb n="6" facs="tcp:109772:4"/> be greatly Accommodated, when he knows the time of the Fleets Arrival there, to have two ſuch Fleets ſo diſpatched; for after that the ſeaſon for Planting approaches, and many times the Rains then comes in, ſo that their time is chiefly ſwallowed up on that account; whereas otherways they would be expoſed to great Hurries and Fa<g ref="char:EOLhyphen"/>tigues.</p>
+            <p>If any Object, That to Diſallow Ships to go alone at pleaſure, is an Unreaſonable Impoſition on Trade; and that great Quanti<g ref="char:EOLhyphen"/>ties of Goods, either Exported or Imported, leſſens their Value by Cloging the Market.</p>
+            <p>
+               <label>Anſw.</label> That our Loſſes have proceeded from ſingle Ships, where<g ref="char:EOLhyphen"/>of ſcarce One in Eight have eſcaped, thereby ſtrengthning the Ene<g ref="char:EOLhyphen"/>my, and weakning our Selves; beſides, it muſt be more advanta<g ref="char:EOLhyphen"/>gious to the Planters, when their Goods comes in Fleets, though Sold Twenty per. <hi>Cent.</hi> Cheaper; the great Riſque they run be<g ref="char:EOLhyphen"/>ing conſidered on ſingle Ships; it muſt be alſo Allowed, that for the Preſervation of the whole, particular intereſts ought to ſurrender thereto; hence is it, that our Trade to the <hi>Canaries, Virginia,</hi> the <hi>Eaſt-Countrey,</hi> and to other parts, have been ſo ſafe, while they Sailed in and out in Fleets, with a Convoy, and in a ſeaſonable time of the Year; when as others going in ſingle Ships, they have ſuffer<g ref="char:EOLhyphen"/>ed on that account, as well as the <hi>VVeſt-Indies.</hi>
+            </p>
+            <p n="3">3. That Advice-Friggots be appointed to go to and from the <hi>Weſt-Indies,</hi> not permitted to take in any Goods; hereby the great point of Intelligence, a valuable thing, eſpecially in time of War, would be ſecured, for the great benefit both of the Government and Traders; the want hereof having been ſo miſchievous to Trade, and may endanger the Iſlands, as it had nigh occaſioned the loſs of <hi>Jamaica</hi> about a Year ago.</p>
+            <p n="4">4. That there be a ſufficient number of Ships appointed as a
+<pb n="7" facs="tcp:109772:4"/> Conſtant ſtanding Guard to the Iſlands, they ſtaying till the Con<g ref="char:EOLhyphen"/>voy of the next Fleet arrives, which Convoy ſhou'd be in their poſt, and the Guard-ſhips return in their room as a Convoy to the loaden homeward bound Fleets, hereby the Iſlands would be preſerved in their Trading one with another, which they have ſuffered in by ſmall <hi>Pickaroons</hi> of the <hi>French,</hi> and even the Iſlands themſelves ſecure, for how eaſie is it for our Enemies (unleſs they be ſo guard<g ref="char:EOLhyphen"/>ed as above expreſſed) with four or five of rheir Ships of War, not only to harraſs the Iſlands as they may do <hi>Barbados,</hi> hovering round about that Iſland from one part to another, ſo allarming them that what through the heat of the Country, the diſmal fatigues of their ſmall Force from their frequent Marching from place to place; and the ſweeping diſtemper of the Country, to be ſo attacqued will be of ſad Conſequence.</p>
+            <p n="5">5. That our Ships be not expoſed to ſuch wonted dangers as they have been, their Men having been Impreſſed by our Men of War in the Iſlands, to ſuch a degree that have rendred them de<g ref="char:EOLhyphen"/>fenceleſs and extream weak in their Voyages homewards, very of<g ref="char:EOLhyphen"/>ten on this very account iſſiuing in their utter loſs,</p>
+            <p>To conclude, The Iſlands expecting and craving relief in this their ſuffering ſtate, their Eyes being upon the Government, what can be done but a ſpeedy application of ſuch Remedies as have been pro<g ref="char:EOLhyphen"/>poſed here? As theſe are more or leſs executed, ſuch will our ſucceſs in Trade be; and its great pity that theſe Iſlands ſo Serviceble and Beneficial to this Nation, on ſo many accounts, ſhou'd lye <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s Languiſhing, and we no more apprehenſive of it: To conſide<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> a worth Foreigners put on their Sugar Plantations, how the <hi>Portu<g ref="char:EOLhyphen"/>gueſe</hi> did raiſe themſelves from theirs, and is now the chief of their Trade; and what a value the <hi>French</hi> and <hi>Hollander</hi> put on theirs, and how much our Iſlands exceed them all in their produce, and capacity to be improved yet, and alſo and in the vaſt number of Ships em<g ref="char:EOLhyphen"/>ployed,
+<pb n="8" facs="tcp:109772:5"/> and Seamen thereby nurſed up: It muſt therefore be own<g ref="char:EOLhyphen"/>ed that we ought to exert our ſelves to the utmoſt for their preſer<g ref="char:EOLhyphen"/>vation, and to the reſtoring them to their former Flouriſhing State; for otherwiſe if they continue thus bleeding in their Trade, it will iſſue in Death without ſpeedy Redreſs, by producing an utter Ceſ<g ref="char:EOLhyphen"/>ſation in Trade. Hence it is that thoſe vaſt Sums of Money that uſe to move to and fro on the Ocean, are withdrawn and lodged within our ſelves, with little or no circulation; ſufficiently evident in their readineſs to ſubſcribe to the Banks, ariſing not only from their forwardneſs to ſerve the Goverment, but alſo ſeek that ſafety in the remaining of their eſtates there, that they have wofully experi<g ref="char:EOLhyphen"/>enced they could not find abroad. Therefore upon the whole, as much bleeding, or no Circulation, weaknes the body Humane, ſo it will equally affect the body Politick in its Trade.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109772:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
